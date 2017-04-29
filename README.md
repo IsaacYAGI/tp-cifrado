@@ -3,7 +3,7 @@
 ## Clone
 
 ```
-git clone https://IsaacYAGI@bitbucket.org/IsaacYAGI/tp-cifrado.git
+git clone https://github.com/IsaacYAGI/tp-cifrado.git
 cd tp-cifrado
 ```
 ## Compilación
