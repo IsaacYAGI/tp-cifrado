@@ -22,6 +22,7 @@ Ahora, el IUT para completar este sistema ha solicitado al Departamento de Infor
 — Toda parte cifrada comienza con un asterisco (\*) y luego viene el comando a ejecutar (que consta de una letra) y por último un número de un dígito. 
 
 — Los comandos que encontrará en el archivo son los siguientes: 
+
 - \*m\#: debe convertir a mayúsculas las próximas \# letras 
 - \*e\#: debe eliminar de la cadena las próximas \# letras 
 - \*s\#: debe sumarle uno al código ASCII de las próximas \# letras 
@@ -44,6 +45,7 @@ Instituto Universitario de Tecnologia Doctor Federico Rivero Palacio
 
 
 Debe tener en cuenta lo siguiente: 
+
 - Todo lo debe trabajar en la misma cadena 
 - Debe elaborar el programa con procedimientos y funciones 
 - \# siempre será una cantidad de una sola cifra 
